@@ -9,7 +9,7 @@ It allows users to calculate monthly loan EMIs based on:
 
 ## 📸 Screenshot
 
-![Screenshot](screenshot.png)
+- <a href="
 
 ## ✅ Features
 - Automatically calculates **Monthly EMI**, **Total Payable**, and **Total Interest**
@@ -19,7 +19,7 @@ It allows users to calculate monthly loan EMIs based on:
 - Pop-up message box with results on input
 
 ## 📂 Files Included
-- `EMI_Calculator.xlsm` – Excel file with embedded VBA code
+- <a href="https://github.com/chandruseenivasan/Muthoot-finance-emi_calculator/blob/main/muthoot%20finance%20%20calculator.xlsm`"> – Excel file with embedded VBA code</a>
 - `screenshot.png` – UI preview of the calculator
 
 ## 🔧 Technologies Used
