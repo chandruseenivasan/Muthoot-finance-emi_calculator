@@ -5,7 +5,7 @@ This is a standalone **EMI (Equated Monthly Installment) Calculator** built in *
 It allows users to calculate monthly loan EMIs based on:
 - Loan Amount
 - Interest Rate (Annual)
-- Loan Tenure (in years)
+- Loan Tenure (in month)
 
 ## 📸 Screenshot
 
