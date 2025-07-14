@@ -21,7 +21,8 @@ It allows users to calculate monthly loan EMIs based on:
 
 ## 📂 Files Included
 - <a href="https://github.com/chandruseenivasan/Muthoot-finance-emi_calculator/blob/main/muthoot%20finance%20%20calculator.xlsm`"> – Excel file with embedded VBA code</a>
-- `screenshot.png` – UI preview of the calculator
+- <img width="1516" height="699" alt="Screenshot 2025-07-14 182513" src="https://github.com/user-attachments/assets/25368c08-e52b-4b6a-bfcb-8b94fb574b55" />
+ – UI preview of the calculator</a>
 
 ## 🔧 Technologies Used
 - Microsoft Excel
