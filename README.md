@@ -9,7 +9,8 @@ It allows users to calculate monthly loan EMIs based on:
 
 ## 📸 Screenshot
 
-- <a href="
+- <a href="<img width="1249" height="543" alt="Screenshot 2025-07-14 180254" src="https://github.com/user-attachments/assets/8af26fb1-e6dc-46e4-ac0c-af681bb8b062" />
+
 
 ## ✅ Features
 - Automatically calculates **Monthly EMI**, **Total Payable**, and **Total Interest**
