@@ -34,5 +34,4 @@ It allows users to calculate monthly loan EMIs based on:
 
 > This project was built for learning and demonstration purposes.
 
-## 📜 License
-This project is released under the MIT License.
+
