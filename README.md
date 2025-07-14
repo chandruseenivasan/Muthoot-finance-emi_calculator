@@ -1,1 +1,37 @@
-# Muthoot-finance-emi_calculator
+# 💰 EMI Calculator – Excel VBA Project
+
+This is a standalone **EMI (Equated Monthly Installment) Calculator** built in **Microsoft Excel using VBA**.
+
+It allows users to calculate monthly loan EMIs based on:
+- Loan Amount
+- Interest Rate (Annual)
+- Loan Tenure (in years)
+
+## 📸 Screenshot
+
+![Screenshot](screenshot.png)
+
+## ✅ Features
+- Automatically calculates **Monthly EMI**, **Total Payable**, and **Total Interest**
+- Uses Excel **VBA macros** with `Worksheet_Change` event
+- Professionally styled with branding (Muthoot Finance theme)
+- Merged cells for form-like user experience
+- Pop-up message box with results on input
+
+## 📂 Files Included
+- `EMI_Calculator.xlsm` – Excel file with embedded VBA code
+- `screenshot.png` – UI preview of the calculator
+
+## 🔧 Technologies Used
+- Microsoft Excel
+- Visual Basic for Applications (VBA)
+
+## 📌 How to Use
+1. Open the Excel file.
+2. Enter your loan details in the cells.
+3. EMI result will pop up automatically.
+
+> This project was built for learning and demonstration purposes.
+
+## 📜 License
+This project is released under the MIT License.
